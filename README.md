@@ -1,47 +1,49 @@
-# Hello, I'm Yared 👋
+# Hi there, I'm Yared Aregayehu
 
-I’m a software developer focused on building clean, reliable, and user-centered digital experiences. I enjoy turning ideas into practical solutions, improving systems through thoughtful engineering, and continuously learning new technologies.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=yared2124&label=Profile%20Views&color=0e75b6&style=flat" alt="yared2124" />
+  <a href="https://github.com/yared2124?tab=followers"><img src="https://img.shields.io/github/followers/yared2124?label=Followers&style=flat&color=blue" alt="Followers" /></a>
+  <a href="https://github.com/yared2124?tab=repositories"><img src="https://img.shields.io/github/repos/yared2124?label=Public%20Repos&style=flat&color=success" alt="Public Repos" /></a>
+</p>
 
-## About Me
+I'm a **Full-Stack Software Engineer** and undergraduate student pursuing a Bachelor of Science in Software Engineering at **Injibara University**, Ethiopia. I specialize in building high-performance web applications, robust RESTful APIs, microservices, and interactive dashboards. I also serve as a student mentor and community leader within the Injibara University Software Engineers Association, helping junior developers navigate software engineering roadmaps.
 
-- 💻 Passionate about software development and problem-solving
-- 🌱 Constantly learning and improving my craft
-- 🤝 Interested in meaningful collaboration and impactful projects
-- 🚀 Focused on writing efficient, maintainable, and scalable code
-- 🎯 Striving to build products that are useful, polished, and valuable to users
+---
 
-## Core Skills
+### 💻 Tech Stack & Tools
 
-### Frontend
-- HTML, CSS, JavaScript, TypeScript
-- React, Next.js, UI/UX implementation
-- Responsive and accessible web interfaces
+* **Languages:** TypeScript, JavaScript, Python, SQL
+* **Frontend:** React, Next.js, Tailwind CSS, HTML5, CSS3
+* **Backend:** Node.js, NestJS, Express, FastAPI
+* **Databases & ORMs:** PostgreSQL, Prisma ORM, MySQL, MongoDB, Redis
+* **DevOps & Environment:** Docker, Git, Linux (Arch Linux, Hyprland, ZRAM optimization)
+* **AI Integration:** Google Gemini API, OpenAI API, Custom Prompt Orchestration Architectures
 
-### Backend
-- Node.js, APIs, server-side architecture
-- Database integration and application logic
-- Performance, reliability, and maintainability
+---
 
-### Tools & Workflow
-- Git & GitHub
-- VS Code
-- Docker and development tooling
-- Agile collaboration and iterative development
+### 🚀 Featured Projects
 
-## What I’m Focused On
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[promptHelper](https://github.com/yared2124)** | Open-source web application designed to optimize and transform plain-text inputs into token-efficient prompts for AI foundation models. | `Next.js 14`, `TypeScript`, `Tailwind CSS`, `Google Gemini API` |
+| **[GitMusice](https://github.com/yared2124)** | Developer analytics tool that analyzes GitHub contribution activity to generate tier rankings, custom profile badges, and dynamic soundtracks. | `Next.js`, `TypeScript`, `GitHub API` |
+| **[church-erp](https://github.com/yared2124)** | Enterprise resource planning system built to handle administrative operations, member records, financial tracking, and property management. | `Next.js 16`, `Prisma ORM`, `PostgreSQL` |
 
-- Building modern, scalable web applications
-- Improving user experience through thoughtful design and engineering
-- Exploring new tools, frameworks, and best practices
-- Creating solutions that are both technically strong and business-aware
+---
 
-## Philosophy
+### 📊 GitHub Stats
 
-I believe great software is not just about writing code — it’s about understanding the problem, designing for the user, and building systems that can evolve with time. I value clarity, consistency, and continuous improvement in everything I do.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yared2124&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yared's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yared2124&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
-## Let’s Connect
+---
 
-- GitHub: [@yared2124](https://github.com/yared2124)
-- Open to collaboration, learning opportunities, and impactful projects
+### 🌐 Connect With Me
 
-> “Code is not just logic — it is problem-solving, creativity, and impact.”
+* **GitHub:** [@yared2124](https://github.com/yared2124)
+* **Freelance:** Upwork (5.0 Client Rating)
+* **Location:** Injibara & Chagni, Amhara Region, Ethiopia
+
+⭐ *Feel free to explore my repositories or reach out for collaborations!*
