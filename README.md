@@ -10,7 +10,7 @@
   <p>
     📍 <b>Ethiopia</b> &nbsp;•&nbsp; 
     🎓 <b>Software Engineering @ Injibara University</b> &nbsp;•&nbsp; 
-    ⭐ <b>Upwork 5.0 Rated Freelancer</b>
+    
   </p>
 
   <p>
