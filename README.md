@@ -21,7 +21,7 @@
     <a href="https://github.com/yared2124?tab=repositories">
       <img src="https://img.shields.io/github/repos/yared2124?label=Repositories&style=flat-square&color=0969da&logo=github" alt="Repositories" />
     </a>
-    <img src="https://img.shields.io/badge/Upwork-5.0%20★%20Rated-14a800?style=flat-square&logo=upwork&logoColor=white" alt="Upwork" />
+    
   </p>
 </div>
 
