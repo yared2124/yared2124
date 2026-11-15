@@ -33,7 +33,6 @@ I am a **Full-Stack Software Engineer** and community leader currently pursuing 
 
 - 🔭 **Current Focus**: Designing token-efficient LLM prompt orchestration pipelines and high-throughput backend services.
 - 💡 **Passion Areas**: Distributed systems, real-time architectures, developer tooling, and modern Linux workstations.
-- 👥 **Community & Leadership**: Mentor and community leader at the **Injibara University Software Engineers Association**, guiding junior engineers through software engineering roadmaps and open-source practices.
 - 💼 **Freelancing**: Delivering high-quality full-stack web and backend solutions on Upwork with a 5.0 client satisfaction rating.
 - ⚡ **Environment**: Daily Linux power user (Arch Linux, Hyprland, ZRAM performance tuning).
 
