@@ -29,7 +29,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Full-Stack Software Engineer** and community leader currently pursuing a Bachelor of Science in Software Engineering at **Injibara University**, Ethiopia. I specialize in architecting scalable web applications, robust REST/GraphQL APIs, microservices, and AI-native applications.
+I am a **Full-Stack Software Engineer**  currently pursuing a Bachelor of Science in Software Engineering at **Injibara University**, Ethiopia. I specialize in architecting scalable web applications, robust REST/GraphQL APIs, microservices, and AI-native applications.
 
 - 🔭 **Current Focus**: Designing token-efficient LLM prompt orchestration pipelines and high-throughput backend services.
 - 💡 **Passion Areas**: Distributed systems, real-time architectures, developer tooling, and modern Linux workstations.
