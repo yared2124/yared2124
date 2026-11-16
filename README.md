@@ -65,7 +65,7 @@ I am a **Full-Stack Software Engineer**  currently pursuing a Bachelor of Scienc
       <p><b>Stack:</b> <code>Next.js</code> • <code>TypeScript</code> • <code>Tailwind CSS</code> • <code>Gemini API</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎵 <a href="https://github.com/yared2124">GitMusice</a></h3>
+      <h3>🎵 <a href="https://github.com/yared2124">GitMusic</a></h3>
       <p>Developer analytics platform analyzing GitHub contribution trends to dynamically generate tier rankings, custom profile badges, and personalized audio themes.</p>
       <p><b>Stack:</b> <code>Next.js</code> • <code>TypeScript</code> • <code>GitHub API</code> • <code>Web Audio</code></p>
     </td>
